@@ -4,3 +4,6 @@ C:\Users\User\Desktop\Test Veselin Stefanov\Test Veselin Stefanov\bin\Debug\Test
 C:\Users\User\Desktop\Test Veselin Stefanov\Test Veselin Stefanov\obj\Debug\Test Veselin Stefanov.csprojResolveAssemblyReference.cache
 C:\Users\User\Desktop\Test Veselin Stefanov\Test Veselin Stefanov\obj\Debug\Test Veselin Stefanov.exe
 C:\Users\User\Desktop\Test Veselin Stefanov\Test Veselin Stefanov\obj\Debug\Test Veselin Stefanov.pdb
+C:\Users\User\Desktop\Vesko\Test Veselin Stefanov\Test Veselin Stefanov\bin\Debug\Test Veselin Stefanov.exe.config
+C:\Users\User\Desktop\Vesko\Test Veselin Stefanov\Test Veselin Stefanov\obj\Debug\Test Veselin Stefanov.exe
+C:\Users\User\Desktop\Vesko\Test Veselin Stefanov\Test Veselin Stefanov\obj\Debug\Test Veselin Stefanov.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Test Veselin Stefanov 2\Test Veselin Stefanov 2\bin\Debug\Test Veselin Stefanov 2.exe.config
+C:\Users\User\Desktop\Test Veselin Stefanov 2\Test Veselin Stefanov 2\bin\Debug\Test Veselin Stefanov 2.exe
+C:\Users\User\Desktop\Test Veselin Stefanov 2\Test Veselin Stefanov 2\bin\Debug\Test Veselin Stefanov 2.pdb
+C:\Users\User\Desktop\Test Veselin Stefanov 2\Test Veselin Stefanov 2\obj\Debug\Test Veselin Stefanov 2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Test Veselin Stefanov 2\Test Veselin Stefanov 2\obj\Debug\Test Veselin Stefanov 2.exe
+C:\Users\User\Desktop\Test Veselin Stefanov 2\Test Veselin Stefanov 2\obj\Debug\Test Veselin Stefanov 2.pdb
